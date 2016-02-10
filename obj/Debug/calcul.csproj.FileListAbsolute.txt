@@ -1,0 +1,9 @@
+D:\Projects\python\C#\calcul\calcul\calcul\bin\Debug\calcul.exe.config
+D:\Projects\python\C#\calcul\calcul\calcul\bin\Debug\calcul.exe
+D:\Projects\python\C#\calcul\calcul\calcul\bin\Debug\calcul.pdb
+D:\Projects\python\C#\calcul\calcul\calcul\obj\Debug\calcul.csprojResolveAssemblyReference.cache
+D:\Projects\python\C#\calcul\calcul\calcul\obj\Debug\calcul.Form1.resources
+D:\Projects\python\C#\calcul\calcul\calcul\obj\Debug\calcul.Properties.Resources.resources
+D:\Projects\python\C#\calcul\calcul\calcul\obj\Debug\calcul.csproj.GenerateResource.Cache
+D:\Projects\python\C#\calcul\calcul\calcul\obj\Debug\calcul.exe
+D:\Projects\python\C#\calcul\calcul\calcul\obj\Debug\calcul.pdb
